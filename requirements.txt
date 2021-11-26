@@ -1,0 +1,10 @@
+Django
+django-ipware
+requests
+requests-futures
+2captcha-python
+beautifulsoup4
+selenium
+beautifulsoup4
+2captcha-python
+webdriver-manager
